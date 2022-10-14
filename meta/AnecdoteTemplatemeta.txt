@@ -1,8 +1,6 @@
 ---
 title: Anecdote Template
-tags: `template
-anecdote
-anecdotes`
+tags: `anecdote, template, anecdotes`
 uuid: B6856A8E-929E-4CE4-A7D4-52170243F23C
 local: drafts://open?uuid=B6856A8E-929E-4CE4-A7D4-52170243F23C
 created: 07222022-045834

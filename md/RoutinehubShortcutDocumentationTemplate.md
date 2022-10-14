@@ -1,10 +1,6 @@
 ---
 title: RoutineHub/Shortcut Documentation Template <|>
-tags: `automation
-shortcuts
-i
-template
-documentation`
+tags: `documentation, i, automation, shortcuts, template`
 uuid: 96FE9F39-C720-4269-ADF9-6A6AE5DABFE4
 local: drafts://open?uuid=96FE9F39-C720-4269-ADF9-6A6AE5DABFE4
 created: 05302021-113549

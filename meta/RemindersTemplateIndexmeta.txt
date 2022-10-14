@@ -1,14 +1,6 @@
 ---
 title: Reminders Template Index
-tags: `scrape
-index
-16
-snippet
-template
-reference
-web
-task
-i`
+tags: `web, reference, i, snippet, index, scrape, task, 16, template`
 uuid: 9A013CEF-726F-439A-9B31-30A6688C32D2
 local: drafts://open?uuid=9A013CEF-726F-439A-9B31-30A6688C32D2
 created: 10092022-151447

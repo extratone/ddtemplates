@@ -1,12 +1,6 @@
 ---
 title: Discord Thread Template
-tags: `support
-template
-shortcuts
-forums
-routinehub
-community
-discord`
+tags: `discord, forums, routinehub, support, shortcuts, community, template`
 uuid: 3E7B3ACE-B97A-4475-B133-DC1FCF4CD1FB
 local: drafts://open?uuid=3E7B3ACE-B97A-4475-B133-DC1FCF4CD1FB
 created: 10112022-100224

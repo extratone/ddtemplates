@@ -1,9 +1,6 @@
 ---
 title: Fairview Template
-tags: `education
-snowden
-template
-fairview`
+tags: `snowden, template, fairview, education`
 uuid: 1707A35E-0BA5-44FB-AE56-147772FE49C6
 local: drafts://open?uuid=1707A35E-0BA5-44FB-AE56-147772FE49C6
 created: 10052022-192140

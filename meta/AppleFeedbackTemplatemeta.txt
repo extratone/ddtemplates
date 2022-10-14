@@ -1,13 +1,6 @@
 ---
 title: Apple Feedback Template
-tags: `reference
-i
-dev
-gist
-template
-support
-feedback
-documentation`
+tags: `feedback, reference, support, gist, i, documentation, dev, template`
 uuid: D5638AF5-017D-47CB-9B1F-C444EFB46EEF
 local: drafts://open?uuid=D5638AF5-017D-47CB-9B1F-C444EFB46EEF
 created: 06062022-213750

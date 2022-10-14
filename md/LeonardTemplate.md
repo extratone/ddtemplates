@@ -1,11 +1,6 @@
 ---
 title: Leonard Template
-tags: `leonard
-email
-education
-snowden
-template
-alexis`
+tags: `leonard, template, alexis, email, snowden, education`
 uuid: 635008DC-3F44-4FB4-98E2-5345AEFF176D
 local: drafts://open?uuid=635008DC-3F44-4FB4-98E2-5345AEFF176D
 created: 08152022-170058
