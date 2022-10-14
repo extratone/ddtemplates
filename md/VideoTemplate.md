@@ -1,6 +1,6 @@
 ---
 title: Video Template
-tags: `images, meta, template, video, youtube`
+tags: `youtube, template, meta, video, images`
 uuid: 0C4EFDE4-A9BF-4872-B163-2EF9E6A30D04
 local: drafts://open?uuid=0C4EFDE4-A9BF-4872-B163-2EF9E6A30D04
 created: 07232022-232849

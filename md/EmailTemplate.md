@@ -1,6 +1,6 @@
 ---
 title: Email Template
-tags: `template, email, social, correspondence`
+tags: `email, correspondence, template, social`
 uuid: C4ECDFEE-E2E7-478A-803C-47DB0C2FA543
 local: drafts://open?uuid=C4ECDFEE-E2E7-478A-803C-47DB0C2FA543
 created: 09252022-030529

@@ -1,6 +1,6 @@
 ---
 title: Notes Template
-tags: `notes, template, psalms`
+tags: `template, notes, psalms`
 uuid: DEB4C792-DA8B-4965-AACE-E319E6588422
 local: drafts://open?uuid=DEB4C792-DA8B-4965-AACE-E319E6588422
 created: 02122022-112653
