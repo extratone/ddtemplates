@@ -1,4 +1,16 @@
-# iTextEditors Submission Template
+---
+title: iTextEditors Submission Template
+tags: `i
+index
+text
+template
+curation`
+uuid: C68B96F5-801A-4C58-BFDA-35FC720E10D4
+local: drafts://open?uuid=C68B96F5-801A-4C58-BFDA-35FC720E10D4
+created: 05232022-190143
+syntax: MultiMarkdown
+---
+ # iTextEditors Submission Template
 
 - [GitHub Issue](https://github.com/extratone/i/issues/204)
 - [Repository file](https://github.com/extratone/i/blob/main/misc/iTextEditorsSubmission.md)

@@ -1,4 +1,17 @@
-# Index Template
+---
+title: Index Template
+tags: `snippet
+index
+reference
+scrape
+web
+template`
+uuid: DF9127F1-6B80-4B00-BF8A-93AE0383E1EA
+local: drafts://open?uuid=DF9127F1-6B80-4B00-BF8A-93AE0383E1EA
+created: 08132022-125754
+syntax: MultiMarkdown
+---
+ # Index Template
 Updated `[[date|%m%d%Y-%H%M%S]]`
 
 - [**Original Repository**](https://github.com/extratone/)

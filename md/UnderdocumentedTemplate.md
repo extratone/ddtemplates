@@ -1,4 +1,16 @@
-# Underdocumented Template
+---
+title: Underdocumented Template
+tags: `underdocumented
+template
+i
+support
+documentation`
+uuid: 4162D7C6-8E71-4612-9870-5A3FC2F00B39
+local: drafts://open?uuid=4162D7C6-8E71-4612-9870-5A3FC2F00B39
+created: 09042022-104842
+syntax: MultiMarkdown
+---
+ # Underdocumented Template
 Updated `[[date|%m%d%Y-%H%M%S]]`
 
 - [**GitHub Issue**](https://github.com/extratone/underdocumented/issues/) 

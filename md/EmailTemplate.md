@@ -1,4 +1,15 @@
-# Email Template
+---
+title: Email Template
+tags: `social
+email
+template
+correspondence`
+uuid: C4ECDFEE-E2E7-478A-803C-47DB0C2FA543
+local: drafts://open?uuid=C4ECDFEE-E2E7-478A-803C-47DB0C2FA543
+created: 09252022-030529
+syntax: MultiMarkdown
+---
+ # Email Template
 Updated `[[date|%m%d%Y-%H%M%S]]`
 
 - [*DavodMail*]](drafts://runAction?action=DavodMail)

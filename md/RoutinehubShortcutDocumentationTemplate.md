@@ -1,4 +1,16 @@
-# RoutineHub/Shortcut Documentation Template <|>
+---
+title: RoutineHub/Shortcut Documentation Template <|>
+tags: `automation
+shortcuts
+i
+template
+documentation`
+uuid: 96FE9F39-C720-4269-ADF9-6A6AE5DABFE4
+local: drafts://open?uuid=96FE9F39-C720-4269-ADF9-6A6AE5DABFE4
+created: 05302021-113549
+syntax: MultiMarkdown
+---
+ # RoutineHub/Shortcut Documentation Template <|>
 Updated `[[date|%m%d%Y-%H%M%S]]`
 
 - [GitHub Issue](https://github.com/extratone/i/issues/)

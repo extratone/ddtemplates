@@ -1,4 +1,14 @@
-# Manpage Template
+---
+title: Manpage Template
+tags: `documentation
+man
+template`
+uuid: A673D057-BBA5-4CD7-A990-8E0FED2FA526
+local: drafts://open?uuid=A673D057-BBA5-4CD7-A990-8E0FED2FA526
+created: 09072022-191050
+syntax: MultiMarkdown
+---
+ # Manpage Template
 Updated `[[date|%m%d%Y-%H%M%S]]`
 
 - [WTF](https://davidblue.wtf/drafts/[[uuid]].html)

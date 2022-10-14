@@ -1,4 +1,18 @@
-# Discord Thread Template
+---
+title: Discord Thread Template
+tags: `support
+template
+shortcuts
+forums
+routinehub
+community
+discord`
+uuid: 3E7B3ACE-B97A-4475-B133-DC1FCF4CD1FB
+local: drafts://open?uuid=3E7B3ACE-B97A-4475-B133-DC1FCF4CD1FB
+created: 10112022-100224
+syntax: MultiMarkdown
+---
+ # Discord Thread Template
 Updated `[[date|%m%d%Y-%H%M%S]]`
 
 - [Thread URL]([[clipboard]])

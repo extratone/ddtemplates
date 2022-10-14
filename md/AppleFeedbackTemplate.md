@@ -1,4 +1,19 @@
-# Apple Feedback Template
+---
+title: Apple Feedback Template
+tags: `reference
+i
+dev
+gist
+template
+support
+feedback
+documentation`
+uuid: D5638AF5-017D-47CB-9B1F-C444EFB46EEF
+local: drafts://open?uuid=D5638AF5-017D-47CB-9B1F-C444EFB46EEF
+created: 06062022-213750
+syntax: MultiMarkdown
+---
+ # Apple Feedback Template
 
 - [**[[clipboard]]**](https://feedbackassistant.apple.com/feedback/<|>)
 - [GitHub Issue](https://github.com/extratone/i/issues/206)

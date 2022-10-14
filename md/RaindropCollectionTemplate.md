@@ -1,4 +1,16 @@
-# Raindrop Collection Template
+---
+title: Raindrop Collection Template
+tags: `curation
+template
+index
+raindrop
+documentation`
+uuid: 466A14AF-AAC7-4170-A40F-A5E975DFDBF4
+local: drafts://open?uuid=466A14AF-AAC7-4170-A40F-A5E975DFDBF4
+created: 04202022-230119
+syntax: MultiMarkdown
+---
+ # Raindrop Collection Template
 Updated `[[date|%m%d%Y-%H%M%S]]` 
 
 - [**URL**](https://raindrop.io/davidblue/)

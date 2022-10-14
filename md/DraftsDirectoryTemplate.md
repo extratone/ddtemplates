@@ -1,4 +1,17 @@
-# Drafts Directory Template
+---
+title: Drafts Directory Template
+tags: `template
+curation
+documentation
+drafts
+configuration
+meta`
+uuid: 23518C1F-72FC-4A54-BA3F-D9FBA74BB7D7
+local: drafts://open?uuid=23518C1F-72FC-4A54-BA3F-D9FBA74BB7D7
+created: 04132022-175639
+syntax: MultiMarkdown
+---
+ # Drafts Directory Template
 Updated `[[date|%m%d%Y-%H%M%S]]`
 
 - [GitHub Issue](https://github.com/extratone/drafts/issues/)

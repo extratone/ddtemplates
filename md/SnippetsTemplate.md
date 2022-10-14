@@ -1,4 +1,16 @@
-# Snippets Template
+---
+title: Snippets Template
+tags: `template
+snippets
+simplenote
+documentation
+reference`
+uuid: 3510B68D-180E-4847-A976-72BEFCADCD24
+local: drafts://open?uuid=3510B68D-180E-4847-A976-72BEFCADCD24
+created: 07232022-155042
+syntax: MultiMarkdown
+---
+ # Snippets Template
 Updated `[[date|%m%d%Y-%H%M%S]]`
 
 - [**Source**](<|>)

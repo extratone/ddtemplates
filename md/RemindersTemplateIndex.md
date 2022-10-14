@@ -1,4 +1,20 @@
-# Reminders Template Index
+---
+title: Reminders Template Index
+tags: `scrape
+index
+16
+snippet
+template
+reference
+web
+task
+i`
+uuid: 9A013CEF-726F-439A-9B31-30A6688C32D2
+local: drafts://open?uuid=9A013CEF-726F-439A-9B31-30A6688C32D2
+created: 10092022-151447
+syntax: MultiMarkdown
+---
+ # Reminders Template Index
 Updated `10092022-151447`
 
 - [**GitHub Issue**](https://github.com/extratone/i/issues/275)
