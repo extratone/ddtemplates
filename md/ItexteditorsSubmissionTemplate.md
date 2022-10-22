@@ -1,6 +1,6 @@
 ---
 title: iTextEditors Submission Template
-tags: `curation, text, i, index, template`
+tags: `template, curation, index, text, i`
 uuid: C68B96F5-801A-4C58-BFDA-35FC720E10D4
 local: drafts://open?uuid=C68B96F5-801A-4C58-BFDA-35FC720E10D4
 created: 05232022-190143

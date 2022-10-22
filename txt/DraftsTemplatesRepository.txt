@@ -1,6 +1,6 @@
 ---
 title: Drafts Templates Repository
-tags: `git, dev, web, reference, index, template`
+tags: `web, reference, dev, index, template, git`
 uuid: 8CC21C4E-4085-437D-BFE8-FCECEE9BF02F
 local: drafts://open?uuid=8CC21C4E-4085-437D-BFE8-FCECEE9BF02F
 created: 10142022-095057
@@ -16,6 +16,8 @@ Updated `10142022-103440`
 - [JSON](https://github.com/extratone/ddtemplates/blob/main/ddtemplates.json)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/8CC21C4E-4085-437D-BFE8-FCECEE9BF02F.md)
 - [Things](things:///show?id=5Ta1NnyVVpk5jfdwT7ctbv)
+
+**A public listing of my personal *template drafts* (as distinct from HTML templates or template tags,) updated with automation and Siri Shortcuts.**
 
 ---
 

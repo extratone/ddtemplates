@@ -1,6 +1,6 @@
 ---
 title: Family Recommendation Template
-tags: `i, support, local, curation, template`
+tags: `template, curation, local, i, support`
 uuid: D9F92E87-E682-41F5-91DD-2B493A11B5AB
 local: drafts://open?uuid=D9F92E87-E682-41F5-91DD-2B493A11B5AB
 created: 05152022-125354

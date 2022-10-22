@@ -1,6 +1,6 @@
 ---
 title: Actions Template %|
-tags: `drafts, documentation, meta, curation, js, configuration, actions, template`
+tags: `js, actions, configuration, drafts, documentation, meta, template, curation`
 uuid: 07851DAD-4E66-4298-8026-5F22DA52E23A
 local: drafts://open?uuid=07851DAD-4E66-4298-8026-5F22DA52E23A
 created: 05112022-034413

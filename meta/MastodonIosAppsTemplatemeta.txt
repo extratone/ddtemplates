@@ -1,6 +1,6 @@
 ---
 title: mastodon-ios-apps Template
-tags: `index, template, mastodon, federated, documentation, curation, i`
+tags: `documentation, curation, mastodon, index, i, federated, template`
 uuid: FC33BE7A-1C8C-4A49-8FBE-281A4E47A60F
 local: drafts://open?uuid=FC33BE7A-1C8C-4A49-8FBE-281A4E47A60F
 created: 05232022-163207

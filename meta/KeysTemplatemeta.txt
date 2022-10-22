@@ -1,6 +1,6 @@
 ---
 title: Keys Template
-tags: `hardware, template, reference, i, keys, documentation`
+tags: `keys, template, reference, hardware, documentation, i`
 uuid: AA031693-DEC7-4BB9-B9C5-1C4526A02395
 local: drafts://open?uuid=AA031693-DEC7-4BB9-B9C5-1C4526A02395
 created: 03162022-003247

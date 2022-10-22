@@ -1,6 +1,6 @@
 ---
 title: Index Template
-tags: `index, snippet, web, template, reference, scrape`
+tags: `template, reference, scrape, index, snippet, web`
 uuid: DF9127F1-6B80-4B00-BF8A-93AE0383E1EA
 local: drafts://open?uuid=DF9127F1-6B80-4B00-BF8A-93AE0383E1EA
 created: 08132022-125754
