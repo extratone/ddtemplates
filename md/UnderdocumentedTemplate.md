@@ -1,6 +1,6 @@
 ---
 title: Underdocumented Template
-tags: `support, documentation, i, template, underdocumented`
+tags: `i, documentation, underdocumented, template, support`
 uuid: 4162D7C6-8E71-4612-9870-5A3FC2F00B39
 local: drafts://open?uuid=4162D7C6-8E71-4612-9870-5A3FC2F00B39
 created: 09042022-104842

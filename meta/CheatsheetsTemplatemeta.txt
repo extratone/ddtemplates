@@ -1,6 +1,6 @@
 ---
 title: Cheatsheets Template
-tags: `local, template, odette, documentation, family, cheatsheets, practice`
+tags: `template, practice, odette, family, cheatsheets, documentation, local`
 uuid: CA50DD89-2AF3-49AB-B149-03A54DB94611
 local: drafts://open?uuid=CA50DD89-2AF3-49AB-B149-03A54DB94611
 created: 05092022-004619

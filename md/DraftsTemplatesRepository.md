@@ -1,6 +1,6 @@
 ---
 title: Drafts Templates Repository
-tags: `git, web, reference, dev, template, index`
+tags: `dev, template, git, reference, web, index`
 uuid: 8CC21C4E-4085-437D-BFE8-FCECEE9BF02F
 local: drafts://open?uuid=8CC21C4E-4085-437D-BFE8-FCECEE9BF02F
 created: 10142022-095057

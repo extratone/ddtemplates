@@ -1,6 +1,6 @@
 ---
 title: Snippets Template
-tags: `simplenote, template, documentation, reference, snippets`
+tags: `template, reference, documentation, simplenote, snippets`
 uuid: 3510B68D-180E-4847-A976-72BEFCADCD24
 local: drafts://open?uuid=3510B68D-180E-4847-A976-72BEFCADCD24
 created: 07232022-155042
