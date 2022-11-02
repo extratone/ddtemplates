@@ -1,6 +1,6 @@
 ---
 title: Actions Template %|
-tags: `js, actions, configuration, drafts, documentation, meta, template, curation`
+tags: `actions, drafts, meta, template, js, documentation, configuration, curation`
 uuid: 07851DAD-4E66-4298-8026-5F22DA52E23A
 local: drafts://open?uuid=07851DAD-4E66-4298-8026-5F22DA52E23A
 created: 05112022-034413
@@ -13,6 +13,7 @@ Updated `[[date|%m%d%Y-%H%M%S]]`
 - [GitHub Issue](https://github.com/extratone/drafts/issues/)
 - [WTF](https://davidblue.wtf/drafts/[[uuid]].html)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/[[uuid]].md)
+- [Raw Repository File](https://github.com/extratone/drafts/raw/main/actions/.draftsAction)
 
 ---
 

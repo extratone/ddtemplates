@@ -1,6 +1,6 @@
 ---
 title: Tilde.Town Blog Template | 02212022-055406
-tags: `blog, template, ~`
+tags: `~, template, blog`
 uuid: D559716B-3FEF-4516-807F-7FE08A0873AB
 local: drafts://open?uuid=D559716B-3FEF-4516-807F-7FE08A0873AB
 created: 02212022-055326

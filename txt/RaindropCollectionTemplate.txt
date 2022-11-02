@@ -1,6 +1,6 @@
 ---
 title: Raindrop Collection Template
-tags: `template, curation, index, raindrop, documentation`
+tags: `index, documentation, curation, template, raindrop`
 uuid: 466A14AF-AAC7-4170-A40F-A5E975DFDBF4
 local: drafts://open?uuid=466A14AF-AAC7-4170-A40F-A5E975DFDBF4
 created: 04202022-230119

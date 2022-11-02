@@ -1,6 +1,6 @@
 ---
 title: Repository Template
-tags: `template, dev, reference, index, git, web`
+tags: `dev, index, reference, template, git, web`
 uuid: 2122EBD3-F4E4-4D55-AABE-2086BE94C5AC
 local: drafts://open?uuid=2122EBD3-F4E4-4D55-AABE-2086BE94C5AC
 created: 08172022-160710

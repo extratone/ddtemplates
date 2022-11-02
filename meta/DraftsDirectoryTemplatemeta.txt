@@ -1,6 +1,6 @@
 ---
 title: Drafts Directory Template
-tags: `configuration, documentation, curation, drafts, template, meta`
+tags: `template, meta, documentation, drafts, configuration, curation`
 uuid: 23518C1F-72FC-4A54-BA3F-D9FBA74BB7D7
 local: drafts://open?uuid=23518C1F-72FC-4A54-BA3F-D9FBA74BB7D7
 created: 04132022-175639

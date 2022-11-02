@@ -1,6 +1,6 @@
 ---
 title: Markup Test Template
-tags: `md, reference, documentation, template, css`
+tags: `documentation, template, md, css, reference`
 uuid: 4F2838C4-8E3C-45B9-B477-4FBA7164C3EB
 local: drafts://open?uuid=4F2838C4-8E3C-45B9-B477-4FBA7164C3EB
 created: 12122021-135907

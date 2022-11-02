@@ -1,6 +1,6 @@
 ---
 title: Manpage Template
-tags: `man, template, documentation`
+tags: `documentation, template, man`
 uuid: A673D057-BBA5-4CD7-A990-8E0FED2FA526
 local: drafts://open?uuid=A673D057-BBA5-4CD7-A990-8E0FED2FA526
 created: 09072022-191050
