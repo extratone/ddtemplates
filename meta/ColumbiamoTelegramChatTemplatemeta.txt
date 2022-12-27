@@ -1,6 +1,6 @@
 ---
 title: ColumbiaMO Telegram Chat Template
-tags: `template, columbia, telegram, local`
+tags: `telegram, columbia, local, template`
 uuid: 8EFCBEBD-C0B8-4C3B-A092-61E71919F1E3
 local: drafts://open?uuid=8EFCBEBD-C0B8-4C3B-A092-61E71919F1E3
 created: 01252022-135850

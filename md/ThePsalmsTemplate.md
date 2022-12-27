@@ -1,6 +1,6 @@
 ---
 title: The Psalms Template
-tags: `drafts, psalms, template`
+tags: `template, psalms, drafts`
 uuid: 56FEF823-A9DF-46F3-BDFB-A23C0273AE8F
 local: drafts://open?uuid=56FEF823-A9DF-46F3-BDFB-A23C0273AE8F
 created: 12082021-080902

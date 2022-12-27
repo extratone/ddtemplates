@@ -1,6 +1,6 @@
 ---
 title: Runestone iTextEditors Submission
-tags: `i, index, curation, template, text`
+tags: `curation, template, text, index, i`
 uuid: D2697A00-6C9F-4B4F-B186-0211819C59E2
 local: drafts://open?uuid=D2697A00-6C9F-4B4F-B186-0211819C59E2
 created: 06192022-151815
