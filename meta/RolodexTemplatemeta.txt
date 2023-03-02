@@ -1,6 +1,6 @@
 ---
 title: Rolodex Template
-tags: `x, rolodex, correspondence, index, template, reference, email`
+tags: `index, email, reference, x, rolodex, template, correspondence`
 uuid: FAC94ED8-CE40-4166-886C-9ED67692FA22
 local: drafts://open?uuid=FAC94ED8-CE40-4166-886C-9ED67692FA22
 created: 06242022-035145

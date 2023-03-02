@@ -1,6 +1,6 @@
 ---
 title: PIREP Template
-tags: `template, juegos, aviation`
+tags: `juegos, aviation, template`
 uuid: 07855E86-3EC9-4682-B81D-EB8E51DB1C7C
 local: drafts://open?uuid=07855E86-3EC9-4682-B81D-EB8E51DB1C7C
 created: 12272022-020348

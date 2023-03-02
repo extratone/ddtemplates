@@ -1,8 +1,8 @@
 ---
 title: Video Template
-tags: `youtube, video, template, meta, images`
-uuid: 0C4EFDE4-A9BF-4872-B163-2EF9E6A30D04
-local: drafts://open?uuid=0C4EFDE4-A9BF-4872-B163-2EF9E6A30D04
+tags: `template`
+uuid: 2E34623A-18CD-4A30-8605-D4A7CDD3D099
+local: drafts://open?uuid=2E34623A-18CD-4A30-8605-D4A7CDD3D099
 created: 07232022-232849
 syntax: MultiMarkdown
 ---

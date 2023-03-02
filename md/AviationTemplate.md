@@ -1,6 +1,6 @@
 ---
 title: Aviation Template
-tags: `template, infinite, event, aviation`
+tags: `event, template, infinite, aviation`
 uuid: EEF985C5-0587-47B4-8685-0C254EDD9F4D
 local: drafts://open?uuid=EEF985C5-0587-47B4-8685-0C254EDD9F4D
 created: 12042022-093500

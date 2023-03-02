@@ -1,8 +1,8 @@
 ---
 title: Markup Test Template
-tags: `reference, template, documentation, css, md`
-uuid: 4F2838C4-8E3C-45B9-B477-4FBA7164C3EB
-local: drafts://open?uuid=4F2838C4-8E3C-45B9-B477-4FBA7164C3EB
+tags: `template, md, documentation, css, reference`
+uuid: 9B116FD1-BC4B-44D1-A483-BE55342D142D
+local: drafts://open?uuid=9B116FD1-BC4B-44D1-A483-BE55342D142D
 created: 12122021-135907
 syntax: MultiMarkdown
 ---
